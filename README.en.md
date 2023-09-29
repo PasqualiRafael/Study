@@ -1,6 +1,6 @@
 # Multilanguage README Choose your language
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PasqualiRafael/Study/blob/master/README.en.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PasqualiRafael/Study/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PasqualiRafael/Study/blob/master/README.en.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PasqualiRafael/Study)
 
 <h1 align="center">
   💻<br>Study (In constant update)
